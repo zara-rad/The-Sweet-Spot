@@ -17,11 +17,23 @@ h3 {
 
 section{
    
-   
+   /* (lisst-style:none) age list dashte bashim va bekhaim noghtehaye ghablesh ro hazf konim azin dastoor stefade mkoni*/
    
     background-color:#5dceeb;
 }
 
 .b{
     color: #60dfdf;
+}
+/* to make changes in contact-html */
+#contact{
+  background-color:white;
+  color: black;
+}
+.new{
+  background-color: white;
+  color:  fuchsia;;
+}
+h3+p:hover{
+  background-color: rgb(229, 128, 128);
 }
